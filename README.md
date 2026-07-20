@@ -16,14 +16,24 @@
 [![Play on itch.io](https://img.shields.io/badge/Play%20on-itch.io-fa5c5c?logo=itchdotio&logoColor=white)](https://holmes-99.itch.io/frog-hop-fly-hunt)
 
 <!--
-🖼️ Add real gameplay footage here once you've captured it:
-   1. Record a short clip (10-15s) of a full level run — jump, coins, win.
-   2. Convert it to a GIF (ScreenToGif / ezgif.com works great, keep it < 8MB).
-   3. Drop it in a `Docs/` or `.github/` folder and swap the line below.
+🎬 Want a gameplay GIF too? Record a short clip (10-15s) of a full level run,
+   convert it (ScreenToGif / ezgif.com, keep it < 8MB), drop it in Screenshots/,
+   then add it above the table below.
 -->
-<!-- ![gameplay](Docs/gameplay.gif) -->
 
 </div>
+
+---
+
+## 📸 Screenshots
+
+| Main Menu | Gameplay |
+|---|---|
+| ![Main menu](Screenshots/MainMenu.png) | ![Gameplay](Screenshots/GamePlay.png) |
+
+| Game Over | You Win |
+|---|---|
+| ![Game over](Screenshots/GameOver.png) | ![Win screen](Screenshots/WinPanel.png) |
 
 ---
 
