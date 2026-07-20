@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6954a30564564d947a071639577afe63
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - heartsDisplay: {instanceID: 0}
+  - hearts0Sprite: {fileID: -5181469153440654655, guid: 2508500390ee6324cbe5588edc5dc3a4, type: 3}
+  - hearts3Sprite: {fileID: 7729739118708529550, guid: 2508500390ee6324cbe5588edc5dc3a4, type: 3}
+  - hearts2Sprite: {fileID: 2930450890159999871, guid: 2508500390ee6324cbe5588edc5dc3a4, type: 3}
+  - hearts1Sprite: {fileID: -5317887827840227842, guid: 2508500390ee6324cbe5588edc5dc3a4, type: 3}
+  - coinsText: {instanceID: 0}
+  - gameOverPanel: {instanceID: 0}
+  - winPanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
