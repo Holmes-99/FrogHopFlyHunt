@@ -14,6 +14,7 @@
 [![Status](https://img.shields.io/badge/Status-In%20Development-yellow)]()
 [![License](https://img.shields.io/badge/License-MIT-green)]()
 [![Play on itch.io](https://img.shields.io/badge/Play%20on-itch.io-fa5c5c?logo=itchdotio&logoColor=white)](https://holmes-99.itch.io/frog-hop-fly-hunt)
+[![Play on Unity Play](https://img.shields.io/badge/Play%20on-Unity%20Play-black?logo=unity&logoColor=white)](https://play.unity.com/en/games/610a6dd7-6f69-4673-bbf6-d52e4a2927a1/webglbuild)
 
 <!--
 🎬 Want a gameplay GIF too? Record a short clip (10-15s) of a full level run,
@@ -114,6 +115,7 @@ Assets/
 | Platform | Link |
 |---|---|
 | 🌐 itch.io | [holmes-99.itch.io/frog-hop-fly-hunt](https://holmes-99.itch.io/frog-hop-fly-hunt) |
+| 🎮 Unity Play (WebGL) | [play.unity.com](https://play.unity.com/en/games/610a6dd7-6f69-4673-bbf6-d52e4a2927a1/webglbuild) |
 
 ## 🗺️ Roadmap
 
