@@ -13,6 +13,7 @@
 [![Render Pipeline](https://img.shields.io/badge/Render%20Pipeline-URP%202D-orange)]()
 [![Status](https://img.shields.io/badge/Status-In%20Development-yellow)]()
 [![License](https://img.shields.io/badge/License-MIT-green)]()
+[![Play on itch.io](https://img.shields.io/badge/Play%20on-itch.io-fa5c5c?logo=itchdotio&logoColor=white)](https://holmes-99.itch.io/frog-hop-fly-hunt)
 
 <!--
 🖼️ Add real gameplay footage here once you've captured it:
@@ -102,15 +103,14 @@ Assets/
 
 | Platform | Link |
 |---|---|
-| 🌐 itch.io (WebGL/Windows) | _coming soon — see note below_ |
-| 💻 Windows build (.zip) | _coming soon_ |
+| 🌐 itch.io | [holmes-99.itch.io/frog-hop-fly-hunt](https://holmes-99.itch.io/frog-hop-fly-hunt) |
 
 ## 🗺️ Roadmap
 
 - [ ] Additional levels
 - [ ] Mobile touch controls
 - [ ] Leaderboard / best time tracking
-- [ ] itch.io release
+- [x] itch.io release
 
 ## 📄 License
 
